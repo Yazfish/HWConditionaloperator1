@@ -174,8 +174,7 @@ public class Main {
 
         if (number > two) {
             System.out.println("это число больше " + one + "  и больше " + two);
-        }
-        else if (number < two) {
+        } else if (number < two) {
             System.out.println("это число меньше и " + two + ", и " + three);
         } else {
             System.out.println("это число больше " + one + ", но меньше " + three);
